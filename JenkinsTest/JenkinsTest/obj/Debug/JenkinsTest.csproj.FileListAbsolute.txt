@@ -1,0 +1,7 @@
+E:\MyDoc\GitHub\JenkinsTest\JenkinsTest\JenkinsTest\bin\Debug\JenkinsTest.dll
+E:\MyDoc\GitHub\JenkinsTest\JenkinsTest\JenkinsTest\bin\Debug\JenkinsTest.pdb
+E:\MyDoc\GitHub\JenkinsTest\JenkinsTest\JenkinsTest\bin\Debug\nunit.framework.dll
+E:\MyDoc\GitHub\JenkinsTest\JenkinsTest\JenkinsTest\bin\Debug\nunit.framework.xml
+E:\MyDoc\GitHub\JenkinsTest\JenkinsTest\JenkinsTest\obj\Debug\JenkinsTest.csprojResolveAssemblyReference.cache
+E:\MyDoc\GitHub\JenkinsTest\JenkinsTest\JenkinsTest\obj\Debug\JenkinsTest.dll
+E:\MyDoc\GitHub\JenkinsTest\JenkinsTest\JenkinsTest\obj\Debug\JenkinsTest.pdb
