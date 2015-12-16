@@ -7,6 +7,7 @@ using NUnit.Framework;
 
 namespace JenkinsTest
 {
+    
     public class NunitTest
     {
         [Test]
